@@ -40,3 +40,9 @@ That's it! The following will be created, loaded, and configured to replicate (t
     - [flights](schema/idb_schema.sql#L21) (InnoDB table): 0 rows
 - [travel_history](schema/cs_schema.sql#L1) (database)
     - [flights](schema/cs_schema.sql#L5) (ColumnStore table): 
+
+
+## More resources
+
+- [Sign up for MariaDB SkySQL](https://mariadb.com/products/skysql/get-started/)
+- [MariaDB SkySQL Documentation](https://mariadb.com/products/skysql/docs/)
