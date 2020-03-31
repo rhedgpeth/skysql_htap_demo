@@ -36,10 +36,10 @@ That's it! The following will be created, loaded, and configured to replicate (t
 
 - [travel](schema/idb_schema.sql#L1) (database)
     - [airlines](schema/idb_schema.sql#L5) (InnoDB table): 17 rows
-    - [airports](schema/idb_schema.sql#L11) (InnoDB table): 
+    - [airports](schema/idb_schema.sql#L11) (InnoDB table): 342 rows
     - [flights](schema/idb_schema.sql#L21) (InnoDB table): 0 rows
 - [travel_history](schema/cs_schema.sql#L1) (database)
-    - [flights](schema/cs_schema.sql#L5) (ColumnStore table): 
+    - [flights](schema/cs_schema.sql#L5) (ColumnStore table): 679996 rows
 
 
 ## More resources
